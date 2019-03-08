@@ -5,7 +5,7 @@
 xcross@xxx 的文件下载后需更名为xcross, 扩展名不变
 如xcross@win_x64.exe下载后需更名为 xcross.exe
 
-# xcross 与bin目录需保持不变
+## 注意: xcross 与bin目录结构需保持不变
 
 
 bin/darwin/ 为Mac OSX虚拟机外壳 
